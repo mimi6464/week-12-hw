@@ -1,0 +1,24 @@
+{
+  "name": "week-12-hw",
+  "version": "1.0.0",
+  "description": "![N|Solid](http://s4.postimg.org/3mc5g58vx/Screen_Shot_2016_09_22_at_5_07_47_PM.png) OVERVIEW 1- created mysql database Bamazon 2- created a table inside a database with product description  3- add product name, price, deptname etc by insert in the columns and rowsand save it on sql file",
+  "main": "BamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mimi6464/week-12-hw.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mimi6464/week-12-hw/issues"
+  },
+  "homepage": "https://github.com/mimi6464/week-12-hw#readme",
+  "dependencies": {
+    "inquirer": "^1.1.3",
+    "mysql": "^2.11.1",
+    "prompt": "^1.0.0"
+  }
+}
